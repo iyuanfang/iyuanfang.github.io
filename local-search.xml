@@ -4,6 +4,31 @@
   
   
   <entry>
+    <title>用户生命周期模型-AARRR</title>
+    <link href="/2024/08/20/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%A8%A1%E5%9E%8B-AARRR/"/>
+    <url>/2024/08/20/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%A8%A1%E5%9E%8B-AARRR/</url>
+    
+    <content type="html"><![CDATA[<p>AARRR是大家最熟知的用户生命周期模型，也被称为“海盗模型”，最早由戴夫·麦克卢尔（Dave McClure）在2007年提出。</p><h3 id="早期定义"><a href="#早期定义" class="headerlink" title="早期定义"></a>早期定义</h3><p>它把用户分为5个阶段：</p><ul><li>Acquisition（获取）</li><li>Activation（激活）</li><li>Retention（留存）</li><li>Revenue（收入）</li><li>Referral（自传播）<br><img src="/images/pasted-33.png" alt="upload successful"></li></ul><p>这个模型引领了互联网时代的“增长黑客”理论与实践。非常适合互联网产品（特别是SaaS产品）的运营策略。</p><p>为什么是SaaS产品呢？</p><p>SaaS产品还是羊毛出在羊身上，要用户买单。但这里有一个获客成本的问题。</p><p>如果要靠销售来增长，需要大量招销售去获客，然后转化。这也是通常2B产品的玩法。</p><p>但AARRR模型先依靠互联网去获客，然后采用免费策略，让用户先用起来。</p><p>所以它第二步就是Activation-激活，通过免费版本让用户快速注册和体验。</p><p>然后它要让用户持续免费使用。所以Retention-留存在第三步。</p><p>然后等用户认可产品价值后，对产品产生依赖，才开始收费，也就是Revenue，带来收入。这里SaaS产品通常有2类收费策略：</p><ol><li>免费1个月或免费一些点数，用户到期了或点数用完了，要付费购买</li><li>基础功能一直免费，高级功能收费</li></ol><p>最后是Referral-裂变，这是增长黑客最关键的一环，通过裂变带来指数级增长，进一步降低获客成本。</p><p>这里通常引导裂变的手段就是利益驱动，比如用户推荐1个新用户，奖励1周&#x2F;1个月 高级会员。</p><p>所以AARRR模型的提出，是针对互联网产品，先免费激活，再留存，再引导付费，然后利益驱动裂变，又获取更多新用户。</p><h3 id="适合消费品的AARRR"><a href="#适合消费品的AARRR" class="headerlink" title="适合消费品的AARRR"></a>适合消费品的AARRR</h3><p>那么到现在，随着消费品用户运营的开展，原有适合互联网免费策略的AARRR模型不是那么的匹配了。</p><p><strong>我们仍然可以用AARRR的简写，但这里顺序和解释会有变化，把Revenue和Retention换个顺序。</strong></p><ul><li>Acquisition（获取）</li><li>Activation（激活）</li><li>Revenue（收入）</li><li>Retention（留存）</li><li>Referral（自传播）</li></ul><p>第二个A Activation-激活不再是SaaS里让用户注册免费使用产品，而是通过内容互动让用户活跃起来，对品牌产生认知。</p><p>然后第三步就促进购买和转化，带来Revenue-收入。</p><p>用户完成首购后，开始使用产品，服务开始。品牌方就要关注用户的Retention留存了。让用户留在这，持续购买，提升LTV。</p><p>最后还是Referral-传播。消费品肯定难以形成像互联网产品那样的指数级传播。但做做口碑，培养培养KOC，还是有必要的。</p><p>这里有一个挺有意思的洞察。越是小众，越是高端品牌，越需要做裂变。因为小众，网上资料少，所以更依赖口碑。因为高端，圈子更小，决策成本更高，所以也依赖圈层传播。</p><p>当然用户生命周期模型还有很多，比如阿里的AIPL模型，我们下期再讲。</p><h3 id="总结"><a href="#总结" class="headerlink" title="总结"></a>总结</h3><p>早期的AARRR模型适合互联网免费产品策略，并不适合现在消费品。但稍微改变的AARRR模型，可以用于品牌用户运营中。</p>]]></content>
+    
+    
+    <categories>
+      
+      <category>用户运营</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>原创</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>《用户数字化--系统、数据与运营》</title>
     <link href="/2024/07/30/%E3%80%8A%E7%94%A8%E6%88%B7%E6%95%B0%E5%AD%97%E5%8C%96-%E7%B3%BB%E7%BB%9F%E3%80%81%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%BF%90%E8%90%A5%E3%80%8B/"/>
     <url>/2024/07/30/%E3%80%8A%E7%94%A8%E6%88%B7%E6%95%B0%E5%AD%97%E5%8C%96-%E7%B3%BB%E7%BB%9F%E3%80%81%E6%95%B0%E6%8D%AE%E4%B8%8E%E8%BF%90%E8%90%A5%E3%80%8B/</url>
