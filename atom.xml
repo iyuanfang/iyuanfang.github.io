@@ -6,7 +6,7 @@
   <link href="http://iyuanfang.github.io/atom.xml" rel="self"/>
   
   <link href="http://iyuanfang.github.io/"/>
-  <updated>2024-08-20T03:40:34.409Z</updated>
+  <updated>2024-08-21T09:48:45.785Z</updated>
   <id>http://iyuanfang.github.io/</id>
   
   <author>
@@ -15,6 +15,31 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>会员勋章体系设计</title>
+    <link href="http://iyuanfang.github.io/2024/08/21/%E4%BC%9A%E5%91%98%E5%8B%8B%E7%AB%A0%E4%BD%93%E7%B3%BB%E8%AE%BE%E8%AE%A1/"/>
+    <id>http://iyuanfang.github.io/2024/08/21/%E4%BC%9A%E5%91%98%E5%8B%8B%E7%AB%A0%E4%BD%93%E7%B3%BB%E8%AE%BE%E8%AE%A1/</id>
+    <published>2024-08-21T08:32:00.000Z</published>
+    <updated>2024-08-21T09:48:45.785Z</updated>
+    
+    <content type="html"><![CDATA[<p>会员勋章作为与会员等级平行的激励方式，比主要依靠购买来升级更灵活，更有实时性，也更有趣味性。所以勋章也是很多APP和品牌会采用的玩法。</p><p>我研究了下市面上会员的勋章体系，发现比较有代表性的还是成长类APP：微信读书、Keep和知乎。我分别分析下，希望从中找到一些勋章体系设计的共性原则。</p><h3 id="微信读书"><a href="#微信读书" class="headerlink" title="微信读书"></a>微信读书</h3><p>微信读书设计了很多勋章，第一屏把获得的勋章都展示出来，而且用大的数字计数（我是21），有很多读书达人到了100多。</p><p><img src="/images/pasted-34.png" alt="第一屏"></p><p><img src="/images/pasted-36.png" alt="分类"></p><p>可以看到微信读书是把勋章分类了，一个大类下包含相关多个勋章（通常是计数类勋章）。比如阅读天数，就是累计，我居然已经累计超过1000天。同时我也获得了100天，200天，365天，500天这多个勋章。</p><p>这样设计的好处就是记录用户每一步成长，勋章数量持续增加，更有荣誉感。</p><p>然后每个勋章可以点击进去：</p><p><img src="/images/pasted-37.png" alt="已获得"></p><p><img src="/images/pasted-38.png" alt="未获得"><br>这里已获得的勋章会展示我是什么时候获得的，已经有多少用户获得，然后支持分享和佩戴。</p><p>未获得的勋章会展示还需要多少天可以获得，这样设置一个目标。</p><h3 id="知乎"><a href="#知乎" class="headerlink" title="知乎"></a>知乎</h3><p>知乎的勋章体系更复杂一点。</p><p><img src="/images/pasted-39.png" alt="第一屏"></p><p><img src="/images/pasted-40.png" alt="限定勋章"><br>这里知乎多了一个限定勋章，就是用户参与某些活动才能获得的勋章，算是一种参与记录与特定荣誉。</p><p>勋章点进去：</p><p><img src="/images/pasted-41.png" alt="第一级"></p><p><img src="/images/pasted-42.png" alt="第5级"><br>这里知乎的计数类勋章设计和微信读书不一样。微信读书是平铺，可以得到多枚勋章。而知乎采用了等级方式，同一个勋章里再分5级，每个级别有相应门槛。一个勋章的不同等级通过在一级图片上增加花絮来区分。</p><p><img src="/images/pasted-43.png" alt="upload successful"><br>知乎未获得的勋章会展示获得条件，但不会提醒还差多少次，会缺少一点目标感。</p><h3 id="Keep"><a href="#Keep" class="headerlink" title="Keep"></a>Keep</h3><p>Keep也是很丰富的勋章玩法。<br><img src="/images/pasted-50.png" alt="第一屏"></p><p><img src="/images/pasted-45.png" alt="个人记录"><br>Keep做了两级级勋章分类，先分“运动人生”，“个人最佳”等，下面再做月度挑战等分类。</p><p><img src="/images/pasted-46.png" alt="未获得"><br>未获得的勋章点进去会告诉你获得条件，对于还未结束的活动，又有一个“点击参与”按钮。</p><p><img src="/images/pasted-51.png" alt="已获得"><br>已获得的计数类勋章，Keep有点像知乎。它展示为1个勋章，然后在这个勋章里分级，未达到级别灰掉。</p><h3 id="分析"><a href="#分析" class="headerlink" title="分析"></a>分析</h3><p>3个APP勋章对比可以看到：</p><ul><li>微信读书最简单，只支持一级分类，计数类勋章同时可获得多个。已获得勋章会展示何时获得，未获得勋章会展示还差多少。它还会展示现在有多少用户获得该勋章，带有点比较的意思。</li><li>知乎也是一级分类，计数类勋章合并为1个勋章，里面再分等级。另外知乎支持限定勋章，用户参与特定活动可以获得，可以鼓励用户参与活动。</li><li>Keep最复杂，支持2级分类，计数类勋章与知乎一样合并为一个，然后也支持特定活动勋章。</li></ul><p>作为用户而言，我喜欢微信读书这样简单的设计，计数类勋章就该有多个，都是我成长的记录嘛！这样勋章数量多了，再加上总勋章数，又是一种炫耀。微信读书对人性把握的真牛。</p><p>然后特定勋章也有价值，记录曾经参与的活动。</p><p>你的看法呢？欢迎交流！</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;会员勋章作为与会员等级平行的激励方式，比主要依靠购买来升级更灵活，更有实时性，也更有趣味性。所以勋章也是很多APP和品牌会采用的玩法。&lt;/p&gt;
+&lt;p&gt;我研究了下市面上会员的勋章体系，发现比较有代表性的还是成长类APP：微信读书、Keep和知乎。我分别分析下，希望从中找到一些</summary>
+      
+    
+    
+    
+    <category term="用户运营" scheme="http://iyuanfang.github.io/categories/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    
+    
+    <category term="原创" scheme="http://iyuanfang.github.io/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+  </entry>
   
   <entry>
     <title>用户生命周期模型-AARRR</title>
