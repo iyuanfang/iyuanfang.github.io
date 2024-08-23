@@ -6,7 +6,7 @@
   <link href="http://iyuanfang.github.io/atom.xml" rel="self"/>
   
   <link href="http://iyuanfang.github.io/"/>
-  <updated>2024-08-21T10:21:01.585Z</updated>
+  <updated>2024-08-23T10:16:38.338Z</updated>
   <id>http://iyuanfang.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>用户生命周期模型-AIPL</title>
+    <link href="http://iyuanfang.github.io/2024/08/22/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%A8%A1%E5%9E%8B-AIPL/"/>
+    <id>http://iyuanfang.github.io/2024/08/22/%E7%94%A8%E6%88%B7%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%A8%A1%E5%9E%8B-AIPL/</id>
+    <published>2024-08-22T09:16:00.000Z</published>
+    <updated>2024-08-23T10:16:38.338Z</updated>
+    
+    <content type="html"><![CDATA[<p>用户生命周期常用模型之一是AIPL，这也是阿里主推的模型。</p><p>AIPL也很简单，将用户分为4个阶段：<br><img src="/images/pasted-52.png" alt="AIPL"></p><ul><li>A（Awareness，认知）：品牌认知人群。包括被品牌广告触达和品类词搜索的人。</li><li>I（Interest，兴趣）：品牌兴趣人群。包括广告点击、浏览品牌&#x2F;店铺主页、参与品牌互动、浏览产品详情页、品牌词搜索、领取试用、订阅&#x2F;关注&#x2F;入会、加购收藏的人。</li><li>P（Purchase，购买）：品牌购买人群，指购买过品牌商品的人。</li><li>L（Loyalty，忠实）：品牌忠诚人群，包括复购、评论、分享的人。</li></ul><p>这样将用户分为4个阶段后，就可以对每个阶段的用户在不同渠道做不同的运营动作，也就是常说的用户精细化运营。</p><p>原理很简单，但要实际操作就没那么简单了。</p><p>在传统电商时代，这4个阶段都可以在同一平台内完成，这也是阿里推广这个模型的原因。先站内打广告，然后跟踪站内用户的点击浏览，然后购买，再做店铺会员留住用户。每一阶段的行为平台都能跟踪，能准确给出各个阶段的用户数据，进而形成多个指标（比如I到P的转化率），然后观测各个指标的变化，指导运营。</p><p>但是到了现在多平台时代，会变得更复杂。</p><p><strong>A</strong> 这里分2种情况：一种是客户有明确需求，比如要买个电视机（重决策），会先进行泛搜索，找到几个品牌。这里品牌知名度就很重要。另一种就是客户并没有明确需求，但突然在抖音或小红书上刷到，忽然产生了兴趣甚至立马购买（轻决策）。这里会跨多个平台，难以统计A的数据。</p><p><strong>I</strong> 用户会在各个平台上浏览，包括专业网站，品牌私域，各平台比价，小红书等等。这里品牌需要在各种平台通过内容种草，让用户了解产品参数和价值。所以也有一种说法是AIPL要变成ASPL，S是Study。由于各个平台的行为数据难以收集，所以品牌希望把用户导到私域，比如公众号，小程序，企微，可以跟踪用户行为，引导用户互动与购买。</p><p><strong>P</strong> 用户的购买也是多平台的，可能在线下，也可能在线上，线上还分天猫、京东、抖音、小程序商城等。要汇总用户的购买数据，需要线上线下打通。大的电商平台提供了会员通接口，通过会员通同步订单，识别同一用户。</p><p><strong>L</strong> 用户留存是用户运营最能起效果的地方。将用户引入私域，可以更好的服务会员，建立会员忠诚。然后针对性推出一些活动，引导会员复购。所以会员数和复购率往往是重要指标。</p><p>从系统层面就是要从各个平台和微信生态收集用户订单与行为数据，然后结合产品特点，将用户分在AIPL各阶段，然后分阶段对用户进行精细化运营，然后分析各个阶段的迁移情况。通过数据指导运营。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;用户生命周期常用模型之一是AIPL，这也是阿里主推的模型。&lt;/p&gt;
+&lt;p&gt;AIPL也很简单，将用户分为4个阶段：&lt;br&gt;&lt;img src=&quot;/images/pasted-52.png&quot; alt=&quot;AIPL&quot;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A（Awareness，认知）：品牌认</summary>
+      
+    
+    
+    
+    <category term="原创" scheme="http://iyuanfang.github.io/categories/%E5%8E%9F%E5%88%9B/"/>
+    
+    
+    <category term="用户运营" scheme="http://iyuanfang.github.io/tags/%E7%94%A8%E6%88%B7%E8%BF%90%E8%90%A5/"/>
+    
+  </entry>
   
   <entry>
     <title>会员勋章体系设计</title>
